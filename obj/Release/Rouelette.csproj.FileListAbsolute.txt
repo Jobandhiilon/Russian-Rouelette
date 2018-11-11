@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\Release\Rouelette.exe.config
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\Release\Rouelette.exe
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\Release\Rouelette.pdb
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\Release\nunit.framework.dll
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\Release\nunit.framework.pdb
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\Release\nunit.framework.xml
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\Release\Rouelette.roulette.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\Release\Rouelette.russian.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\Release\Rouelette.rules.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\Release\Rouelette.Properties.Resources.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\Release\Rouelette.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\Release\Rouelette.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\Release\Rouelette.csproj.CopyComplete
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\Release\Rouelette.exe
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\Release\Rouelette.pdb

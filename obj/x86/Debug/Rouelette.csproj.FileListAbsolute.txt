@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\x86\Debug\Rouelette.exe
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\x86\Debug\Rouelette.exe.config
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Debug\Rouelette.roulette.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Debug\Rouelette.russian.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Debug\Rouelette.rules.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Debug\Rouelette.Properties.Resources.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Debug\Rouelette.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Debug\Rouelette.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Debug\Rouelette.exe
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Debug\Rouelette.pdb

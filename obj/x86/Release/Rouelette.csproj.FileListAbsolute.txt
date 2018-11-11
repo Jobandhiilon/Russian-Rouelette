@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\x86\Release\Rouelette.exe.config
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\x86\Release\Rouelette.exe
+C:\Users\hp\source\repos\Rouelette\Rouelette\bin\x86\Release\Rouelette.pdb
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Release\Rouelette.roulette.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Release\Rouelette.russian.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Release\Rouelette.rules.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Release\Rouelette.Properties.Resources.resources
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Release\Rouelette.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Release\Rouelette.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Release\Rouelette.exe
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Release\Rouelette.pdb
+C:\Users\hp\source\repos\Rouelette\Rouelette\obj\x86\Release\Rouelette.csprojAssemblyReference.cache
